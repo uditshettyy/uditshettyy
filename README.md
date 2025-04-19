@@ -1,5 +1,4 @@
-<h2 align="left">Hi 👋
-  ! My name is  Udit shetty & I'm a aspiring developer ,It’s over for all of you when I master this.</h2>
+<h2 align="left">Hi 👋! My name is  Udit shetty and I'm a aspiring developer ,It’s over for all of you when I master this.</h2>
 
 ###
 
@@ -37,6 +36,16 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/uditshettyy/uditshettyy/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uditshettyy/uditshettyy/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uditshettyy/uditshettyy/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/uditshettyy/uditshettyy/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/uditshettyy/count.svg?"  />
+</div>
 
 ###
