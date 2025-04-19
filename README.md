@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is  Udit shetty and I'm a aspiring developer ,It’s over for all of you when I master this.</h2>
+<h2 align="left">Hi 👋
+  ! My name is  Udit shetty & I'm a aspiring developer ,It’s over for all of you when I master this.</h2>
 
 ###
 
