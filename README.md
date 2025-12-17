@@ -3,72 +3,65 @@ Hi 👋, I'm <b>Udit Shetty</b><br>
 Aspiring Developer 🚀 | Passionate about building & learning
 </h2>
 
-###
-
-<p align="left">
+<p align="left" style="font-size:16px;">
 💻 Exploring Web Development & Programming<br>
 ⚡ Love solving problems & creating cool projects<br>
 📈 Constantly improving, one commit at a time
 </p>
 
-###
+---
 
 <div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=uditshettyy&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1800"
     height="150"
-    alt="GitHub Stats"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=uditshettyy&layout=compact&langs_count=6&theme=dracula&hide_border=true&cache_seconds=1800"
     height="150"
-    alt="Top Languages"
   />
 </div>
 
-###
+<br/>
 
 <div align="center">
   <img
     src="https://streak-stats.demolab.com?user=uditshettyy&theme=dracula&hide_border=true"
     height="150"
-    alt="GitHub Streak"
   />
 </div>
 
-###
+<br/>
 
 <img align="right" height="160" src="https://www.gifcen.com/wp-content/uploads/2022/09/zoro-gif.gif" />
 
-###
-
-<h3 align="left">🛠 Tech Stack</h3>
+<h2 align="left">🛠 Tech Stack</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32"/>
 </div>
 
-###
+<br/>
 
-<h3 align="left">🚀 Currently Building (MERN Stack)</h3>
+<h2 align="left">🚀 Currently  Learning & Building (MERN Stack)</h2>
 
-<p align="left">
+<p align="left" style="font-size:16px;">
 🧠 <b>Full-Stack MERN Application</b><br>
 Built using <b>MongoDB</b>, <b>Express.js</b>, <b>React</b>, and <b>Node.js</b><br><br>
 🔹 REST APIs & JWT Authentication<br>
@@ -77,9 +70,9 @@ Built using <b>MongoDB</b>, <b>Express.js</b>, <b>React</b>, and <b>Node.js</b><
 🔹 Scalable Backend with Node & Express
 </p>
 
-###
+<br/>
 
-<h3 align="left">🌐 Connect with Me</h3>
+<h2 align="left">🌐 Connect with Me</h2>
 
 <div align="left">
   <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
@@ -94,6 +87,6 @@ Built using <b>MongoDB</b>, <b>Express.js</b>, <b>React</b>, and <b>Node.js</b><
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </div>
 
-###
+<br/>
 
 <img src="https://raw.githubusercontent.com/uditshettyy/uditshettyy/output/snake.svg" alt="Snake animation" />
