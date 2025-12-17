@@ -59,7 +59,7 @@ Aspiring Developer 🚀 | Passionate about building & learning
 
 <br/>
 
-<h2 align="left">🚀 Currently  Learning & Building (MERN Stack)</h2>
+<h2 align="left">🚀 Currently Building (MERN Stack)</h2>
 
 <p align="left" style="font-size:16px;">
 🧠 <b>Full-Stack MERN Application</b><br>
@@ -75,16 +75,20 @@ Built using <b>MongoDB</b>, <b>Express.js</b>, <b>React</b>, and <b>Node.js</b><
 <h2 align="left">🌐 Connect with Me</h2>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/uditshettyy?igsh=ZzYyY3ZnMjVvOTl5" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/uditshetty091" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <!-- Gmail -->
+  <a href="mailto:uditshetty091@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
 
 <br/>
