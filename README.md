@@ -6,6 +6,7 @@ Aspiring Developer 🚀 | Passionate about building & learning
 ###
 
 <p align="left">
+#  About Me:
 💻 Exploring Web Development & Programming<br>
 ⚡ Love solving problems & creating cool projects<br>
 📈 Constantly improving, one commit at a time
@@ -44,15 +45,20 @@ Aspiring Developer 🚀 | Passionate about building & learning
 
 <div align="left">
   <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+
+  <a href="https://www.linkedin.com/in/uditshetty091" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </div>
 
 ###
 
 <img src="https://raw.githubusercontent.com/uditshettyy/uditshettyy/output/snake.svg" alt="Snake animation" />
-
-
