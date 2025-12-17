@@ -6,7 +6,7 @@ Aspiring Developer 🚀 | Passionate about building & learning
 ###
 
 <p align="left">
-#  About Me:
+  #About Me
 💻 Exploring Web Development & Programming<br>
 ⚡ Love solving problems & creating cool projects<br>
 📈 Constantly improving, one commit at a time
@@ -15,8 +15,26 @@ Aspiring Developer 🚀 | Passionate about building & learning
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uditshettyy&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uditshettyy&layout=compact&langs_count=6&theme=dracula" height="150" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=uditshettyy&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1800"
+    height="150"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=uditshettyy&layout=compact&langs_count=6&theme=dracula&hide_border=true&cache_seconds=1800"
+    height="150"
+    alt="Top Languages"
+  />
+</div>
+
+###
+
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=uditshettyy&theme=dracula&hide_border=true"
+    height="150"
+    alt="GitHub Streak"
+  />
 </div>
 
 ###
