@@ -6,7 +6,6 @@ Aspiring Developer 🚀 | Passionate about building & learning
 ###
 
 <p align="left">
-  About Me</b><br>
 💻 Exploring Web Development & Programming<br>
 ⚡ Love solving problems & creating cool projects<br>
 📈 Constantly improving, one commit at a time
@@ -55,7 +54,28 @@ Aspiring Developer 🚀 | Passionate about building & learning
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/>
 </div>
+
+###
+
+<h3 align="left">🚀 Currently Building (MERN Stack)</h3>
+
+<p align="left">
+🧠 <b>Full-Stack MERN Application</b><br>
+Built using <b>MongoDB</b>, <b>Express.js</b>, <b>React</b>, and <b>Node.js</b><br><br>
+🔹 REST APIs & JWT Authentication<br>
+🔹 CRUD Operations & Role-based Access<br>
+🔹 Responsive UI with React<br>
+🔹 Scalable Backend with Node & Express
+</p>
 
 ###
 
@@ -63,11 +83,8 @@ Aspiring Developer 🚀 | Passionate about building & learning
 
 <div align="left">
   <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-
   <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
-
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 
   <a href="https://www.linkedin.com/in/uditshetty091" target="_blank">
