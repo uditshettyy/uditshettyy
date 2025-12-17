@@ -6,7 +6,7 @@ Aspiring Developer 🚀 | Passionate about building & learning
 ###
 
 <p align="left">
-  #About Me
+  About Me</b><br>
 💻 Exploring Web Development & Programming<br>
 ⚡ Love solving problems & creating cool projects<br>
 📈 Constantly improving, one commit at a time
