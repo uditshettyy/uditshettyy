@@ -24,10 +24,11 @@ Aspiring Developer 🚀 | Passionate about building & learning
 
 <br/>
 
+<!-- 🔥 Detailed GitHub Streak Summary -->
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=uditshettyy&theme=dracula&hide_border=true"
-    height="150"
+    src="https://streak-stats.demolab.com?user=uditshettyy&theme=dark&hide_border=true&ring=00C2A8&fire=00C2A8&currStreakLabel=00C2A8"
+    alt="GitHub Streak Stats"
   />
 </div>
 
