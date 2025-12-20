@@ -24,14 +24,16 @@ Aspiring Developer 🚀 | Passionate about building & learning
 
 <br/>
 
-<!-- 🔥 NEW GitHub Streak Style (Stable & Modern) -->
+
+<!-- 🔥 GitHub Activity Overview (Stable) -->
 <div align="center">
   <img
-    src="https://github-readme-streak-stats.vercel.app?user=uditshettyy&theme=radical&hide_border=true&border_radius=10"
-    height="180"
-    alt="GitHub Streak Stats"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uditshettyy&theme=github_dark"
+    height="200"
+    alt="GitHub Activity"
   />
 </div>
+
 
 <br/>
 
