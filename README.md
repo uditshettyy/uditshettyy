@@ -25,14 +25,6 @@ Aspiring Developer 🚀 | Passionate about building & learning
 <br/>
 
 
-<!-- 🔥 Modern GitHub Activity Card -->
-<div align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=uditshettyy&theme=github_dark&utcOffset=5.5"
-    height="180"
-    alt="Productive Time"
-  />
-</div>
 
 
 
