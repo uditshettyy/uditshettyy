@@ -11,30 +11,33 @@ Aspiring Developer 🚀 | Passionate about building & learning
 
 ---
 
+<!-- ===================== GITHUB STATS ===================== -->
+
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=uditshettyy&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1800"
-    height="150"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=uditshettyy&theme=github_dark"
+    height="180"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=uditshettyy&layout=compact&langs_count=6&theme=dracula&hide_border=true&cache_seconds=1800"
-    height="150"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uditshettyy&theme=github_dark"
+    height="180"
   />
 </div>
 
 <br/>
 
-<!-- 🔥 Detailed GitHub Streak Summary -->
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=uditshettyy&theme=dark&hide_border=true&ring=00C2A8&fire=00C2A8&currStreakLabel=00C2A8"
-    alt="GitHub Streak Stats"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=uditshettyy&theme=dracula&hide_border=true"
+    height="180"
   />
 </div>
 
 <br/>
 
 <img align="right" height="160" src="https://www.gifcen.com/wp-content/uploads/2022/09/zoro-gif.gif" />
+
+<!-- ===================== TECH STACK ===================== -->
 
 <h2 align="left">🛠 Tech Stack</h2>
 
@@ -60,6 +63,8 @@ Aspiring Developer 🚀 | Passionate about building & learning
 
 <br/>
 
+<!-- ===================== MERN PROJECT ===================== -->
+
 <h2 align="left">🚀 Currently Building (MERN Stack)</h2>
 
 <p align="left" style="font-size:16px;">
@@ -73,25 +78,26 @@ Built using <b>MongoDB</b>, <b>Express.js</b>, <b>React</b>, and <b>Node.js</b><
 
 <br/>
 
+<!-- ===================== CONNECT ===================== -->
+
 <h2 align="left">🌐 Connect with Me</h2>
 
 <div align="left">
-  <!-- Instagram -->
   <a href="https://www.instagram.com/uditshettyy?igsh=ZzYyY3ZnMjVvOTl5" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/uditshetty091" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <!-- Gmail -->
   <a href="mailto:uditshetty091@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
 <br/>
+
+<!-- ===================== SNAKE ===================== -->
 
 <img src="https://raw.githubusercontent.com/uditshettyy/uditshettyy/output/snake.svg" alt="Snake animation" />
