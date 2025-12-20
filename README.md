@@ -24,10 +24,11 @@ Aspiring Developer 🚀 | Passionate about building & learning
 
 <br/>
 
-<!-- 🔥 Detailed GitHub Streak Summary -->
+<!-- 🔥 NEW GitHub Streak Style (Stable & Modern) -->
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=uditshettyy&theme=dark&hide_border=true&ring=00C2A8&fire=00C2A8&currStreakLabel=00C2A8"
+    src="https://github-readme-streak-stats.vercel.app?user=uditshettyy&theme=radical&hide_border=true&border_radius=10"
+    height="180"
     alt="GitHub Streak Stats"
   />
 </div>
@@ -76,17 +77,14 @@ Built using <b>MongoDB</b>, <b>Express.js</b>, <b>React</b>, and <b>Node.js</b><
 <h2 align="left">🌐 Connect with Me</h2>
 
 <div align="left">
-  <!-- Instagram -->
   <a href="https://www.instagram.com/uditshettyy?igsh=ZzYyY3ZnMjVvOTl5" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/uditshetty091" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <!-- Gmail -->
   <a href="mailto:uditshetty091@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
