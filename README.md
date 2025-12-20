@@ -25,14 +25,15 @@ Aspiring Developer 🚀 | Passionate about building & learning
 <br/>
 
 
-<!-- 🔥 Modern GitHub Streak (Stable Setup) -->
+<!-- 🔥 Modern GitHub Activity Card -->
 <div align="center">
   <img
-    src="https://github-readme-streak-stats.vercel.app/api?user=uditshettyy&theme=dark&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=uditshettyy&theme=github_dark&utcOffset=5.5"
     height="180"
-    alt="GitHub Streak"
+    alt="Productive Time"
   />
 </div>
+
 
 
 
