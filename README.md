@@ -2,7 +2,6 @@
 Hi 👋, I'm <b>Udit Shetty</b><br>
 Aspiring Developer 🚀 | Passionate about building & learning
 </h2>
-
 <p align="left" style="font-size:16px;">
 💻 Exploring Web Development & Programming<br>
 ⚡ Love solving problems & creating cool projects<br>
@@ -10,6 +9,18 @@ Aspiring Developer 🚀 | Passionate about building & learning
 </p>
 
 ---
+
+<h2 align="left">📊 GitHub Activity</h2>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uditshettyy&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uditshettyy&theme=dracula&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+<br/>
 
 <div align="center">
   <img
@@ -23,18 +34,11 @@ Aspiring Developer 🚀 | Passionate about building & learning
 </div>
 
 <br/>
-
-
-
-
-
-
 <br/>
 
 <img align="right" height="160" src="https://www.gifcen.com/wp-content/uploads/2022/09/zoro-gif.gif" />
 
 <h2 align="left">🛠 Tech Stack</h2>
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32"/>
   <img width="12"/>
@@ -58,7 +62,6 @@ Aspiring Developer 🚀 | Passionate about building & learning
 <br/>
 
 <h2 align="left">🚀 Currently Building (MERN Stack)</h2>
-
 <p align="left" style="font-size:16px;">
 🧠 <b>Full-Stack MERN Application</b><br>
 Built using <b>MongoDB</b>, <b>Express.js</b>, <b>React</b>, and <b>Node.js</b><br><br>
@@ -71,16 +74,13 @@ Built using <b>MongoDB</b>, <b>Express.js</b>, <b>React</b>, and <b>Node.js</b><
 <br/>
 
 <h2 align="left">🌐 Connect with Me</h2>
-
 <div align="left">
   <a href="https://www.instagram.com/uditshettyy?igsh=ZzYyY3ZnMjVvOTl5" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-
   <a href="https://www.linkedin.com/in/uditshetty091" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="mailto:uditshetty091@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
