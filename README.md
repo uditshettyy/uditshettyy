@@ -8,42 +8,6 @@ Aspiring Developer 🚀 | Passionate about building & learning
 📈 Constantly improving, one commit at a time
 </p>
 
----
-
-<h2 align="left">📊 GitHub Statistics</h2>
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=uditshettyy&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=uditshettyy&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
-    height="170"
-  />
-</div>
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=uditshettyy&layout=compact&langs_count=8&theme=dracula&hide_border=true"
-    height="170"
-  />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uditshettyy&theme=dracula" alt="Commit Activity" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uditshettyy&theme=dracula&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-</div>
-
-<br/>
-<br/>
 
 <img align="right" height="160" src="https://www.gifcen.com/wp-content/uploads/2022/09/zoro-gif.gif" />
 
