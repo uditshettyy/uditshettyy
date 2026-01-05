@@ -10,27 +10,36 @@ Aspiring Developer 🚀 | Passionate about building & learning
 
 ---
 
-<h2 align="left">📊 GitHub Activity</h2>
+<h2 align="left">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uditshettyy&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=uditshettyy&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=uditshettyy&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+    height="170"
+  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uditshettyy&theme=dracula&hide_border=true&area=true" alt="Contribution Graph" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=uditshettyy&layout=compact&langs_count=8&theme=dracula&hide_border=true"
+    height="170"
+  />
 </div>
 
 <br/>
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=uditshettyy&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1800"
-    height="150"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=uditshettyy&layout=compact&langs_count=6&theme=dracula&hide_border=true&cache_seconds=1800"
-    height="150"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uditshettyy&theme=dracula" alt="Commit Activity" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uditshettyy&theme=dracula&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </div>
 
 <br/>
