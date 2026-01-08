@@ -7,6 +7,15 @@ Aspiring Developer 🚀 | Passionate about building & learning
 ⚡ Love solving problems & creating cool projects<br>
 📈 Constantly improving, one commit at a time
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+---
 
 
 <img align="right" height="160" src="https://www.gifcen.com/wp-content/uploads/2022/09/zoro-gif.gif" />
