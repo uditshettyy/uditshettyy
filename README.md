@@ -8,6 +8,16 @@ Aspiring Developer 🚀 | Passionate about building & learning
 📈 Constantly improving, one commit at a time
 </p>
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=uditshettyy&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <b>📌 Longest Streak:</b> 179 days <br>
+  <b>📌 Total Contributions:</b> 692+ <br>
+  <b>📌 Commitment:</b> Showing up every single day
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=uditshettyy&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
