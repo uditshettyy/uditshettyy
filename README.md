@@ -12,12 +12,6 @@ Aspiring Developer 🚀 | Passionate about building & learning
 </p>
 
 <p align="center">
-  <b>📌 Longest Streak:</b> 179 days <br>
-  <b>📌 Total Contributions:</b> 692+ <br>
-  <b>📌 Commitment:</b> Showing up every single day
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=uditshettyy&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
