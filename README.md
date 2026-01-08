@@ -36,7 +36,7 @@ Aspiring Developer 🚀 | Passionate about building & learning
 
 <br/>
 
-<h2 align="left">🚀 Currently Building (MERN Stack)</h2>
+<h2 align="left">🚀 Currently Learning (MERN Stack)</h2>
 <p align="left" style="font-size:16px;">
 🧠 <b>Full-Stack MERN Application</b><br>
 Built using <b>MongoDB</b>, <b>Express.js</b>, <b>React</b>, and <b>Node.js</b><br><br>
