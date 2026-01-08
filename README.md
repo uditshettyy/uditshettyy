@@ -17,7 +17,6 @@ Aspiring Developer 🚀 | Passionate about building & learning
 
 ---
 
-
 <img align="right" height="160" src="https://www.gifcen.com/wp-content/uploads/2022/09/zoro-gif.gif" />
 
 <h2 align="left">🛠 Tech Stack</h2>
