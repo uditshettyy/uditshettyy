@@ -8,9 +8,17 @@ Aspiring Developer 🚀 | Passionate about building & learning
 📈 Constantly improving, one commit at a time
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=uditshettyy&theme=dark&hide_border=true" />
+  <!-- LeetCode-style Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uditshettyy&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
+<p align="center">
+  <!-- Fixed Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=uditshettyy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+  <!-- General GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=uditshettyy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
 
 ---
 
