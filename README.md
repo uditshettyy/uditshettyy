@@ -2,7 +2,7 @@
 Hi 👋, I'm <b>Udit Shetty</b><br>
 Aspiring Developer 🚀 | Passionate about building & learning
 </h2>
-<p align="left" style="font-size:16px;">
+<p align="left" style="font-size:20px;">
 💻 Exploring Web Development & Programming<br>
 ⚡ Love solving problems & creating cool projects<br>
 📈 Constantly improving, one commit at a time
