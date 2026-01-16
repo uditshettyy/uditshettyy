@@ -40,5 +40,35 @@ Aspiring Developer 🚀 | Passionate about building & learning
 </div>
 
 <br/>
+/>
+<h2 align="left">🔥 GitHub Streaks</h2>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=uditshettyy&theme=dark&hide_border=true" />
+</p>
 
-<img src="https://raw.githubusercontent.com/uditshettyy/uditshettyy/output/snake.svg" alt="Snake animation" />
+<h2 align="left">📊 GitHub Stats</h2>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=uditshettyy&show_icons=true&theme=dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uditshettyy&layout=compact&theme=dark&hide_border=true" height="160"/>
+</p>
+
+<h2 align="left">🚀 What I'm Currently Working On</h2>
+<ul>
+  <li>🧠 Strengthening <b>DSA & Problem Solving</b> (LeetCode)</li>
+  <li>🌐 Building <b>Full Stack Web Applications</b></li>
+  <li>📚 Learning <b>Backend, Databases & DevOps basics</b></li>
+  <li>⚙️ Improving code quality & consistency</li>
+</ul>
+
+<h2 align="left"></h2>
+<ul>
+  <li>✅ Build impactful real-world projects</li>
+  <li>✅ Contribute to open-source</li>
+  <li>✅ Crack an internship</li>
+</ul>
+
+<h2 align="left">💬 Quote I Believe In</h2>
+<p align="left">
+  <i>"Small daily improvements lead to big results."</i>
+</p>
+
