@@ -26,21 +26,7 @@
 </div>
 
 
-<h2 align="left">🌐 Connect with Me</h2>
-<div align="left">
-  <a href="https://www.instagram.com/uditshettyy?igsh=ZzYyY3ZnMjVvOTl5" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/uditshetty091" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:uditshetty091@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
 
-<br/>
-/>
 <h2 align="left">🔥 GitHub Streaks</h2>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=uditshettyy&theme=dark&hide_border=true" />
@@ -71,4 +57,17 @@
 <p align="left">
   <i>"Consistency is Key ."</i>
 </p>
+<h2 align="left">🌐 Connect with Me</h2>
+<div align="left">
+  <a href="https://www.instagram.com/uditshettyy?igsh=ZzYyY3ZnMjVvOTl5" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/uditshetty091" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:uditshetty091@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
 
+<br/>
