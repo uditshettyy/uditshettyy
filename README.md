@@ -25,19 +25,6 @@ Aspiring Developer 🚀 | Passionate about building & learning
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32"/>
 </div>
 
-<br/>
-
-<h2 align="left">🚀 Currently Learning (MERN Stack)</h2>
-<p align="left" style="font-size:16px;">
-🧠 <b>Full-Stack MERN Application</b><br>
-Built using <b>MongoDB</b>, <b>Express.js</b>, <b>React</b>, and <b>Node.js</b><br><br>
-🔹 REST APIs & JWT Authentication<br>
-🔹 CRUD Operations & Role-based Access<br>
-🔹 Responsive UI with React<br>
-🔹 Scalable Backend with Node & Express
-</p>
-
-<br/>
 
 <h2 align="left">🌐 Connect with Me</h2>
 <div align="left">
