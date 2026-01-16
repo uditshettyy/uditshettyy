@@ -30,7 +30,7 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=uditshettyy&theme=dark&hide_border=true" />
 </p>
-<img src="https://streak-stats.demolab.com?user=uditshettyy&theme=dark&hide_border=true" />
+
 
 
 <h2 align="left">📊 GitHub Stats</h2>
