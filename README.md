@@ -73,5 +73,6 @@
 </div>
 
 <br/>
-<img src="https://leetcard.jacoblin.cool/uditshettyy?theme=dark&ext=heatmap"/>
-
+<p align="center">
+  <img src="https://ghchart.rshah.org/0e4429/uditshettyy" />
+</p>
