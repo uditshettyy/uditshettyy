@@ -73,6 +73,3 @@
 </div>
 
 <br/>
-<p align="center">
-  <img src="https://ghchart.rshah.org/39d353/uditshettyy" />
-</p>
