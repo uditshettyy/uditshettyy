@@ -69,6 +69,6 @@
 
 <h2 align="left">💬 Quote I Believe In</h2>
 <p align="left">
-  <i>"Small daily improvements lead to big results."</i>
+  <i>"Consistency is Key ."</i>
 </p>
 
