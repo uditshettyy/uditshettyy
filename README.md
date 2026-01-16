@@ -1,11 +1,11 @@
-<h2 align="left">
-Hi 👋, I'm <b>Udit Shetty</b><br>
-Aspiring Developer 🚀 | Passionate about building & learning
-</h2>
+<h1 align="left">Udit Shetty</h1>
+<p align="left">
+  Aspiring Developer 🚀 | Passionate about building & learning
+</p>
+
 <p align="left" style="font-size:20px;">
 💻 Exploring Web Development & Programming<br>
 ⚡ Love solving problems & creating cool projects<br>
-📈 Constantly improving, one commit at a time
 </p>
 
 <img align="right" height="160" src="https://www.gifcen.com/wp-content/uploads/2022/09/zoro-gif.gif" />
