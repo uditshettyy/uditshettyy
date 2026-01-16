@@ -30,12 +30,15 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=uditshettyy&theme=dark&hide_border=true" />
 </p>
+<img src="https://streak-stats.demolab.com?user=uditshettyy&theme=dark&hide_border=true" />
+
 
 <h2 align="left">📊 GitHub Stats</h2>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=uditshettyy&show_icons=true&theme=dark&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uditshettyy&layout=compact&theme=dark&hide_border=true" height="160"/>
 </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uditshettyy&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" />
 
 <h2 align="left">🚀 What I'm Currently Working On</h2>
 <ul>
