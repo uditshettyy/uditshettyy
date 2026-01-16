@@ -27,16 +27,16 @@
 
 
 
-<h2 align="left">🔥 GitHub Streaks</h2>
+<h2 align="left">🔥 GitHub Activity</h2>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=uditshettyy&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=uditshettyy&theme=dark&hide_border=true" />
 </p>
 
-<h2 align="left">📊 GitHub Stats</h2>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=uditshettyy&show_icons=true&theme=dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uditshettyy&layout=compact&theme=dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=uditshettyy&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uditshettyy&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" height="160"/>
 </p>
+
 
 <h2 align="left">🚀 What I'm Currently Working On</h2>
 <ul>
