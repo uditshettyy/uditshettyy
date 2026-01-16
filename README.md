@@ -7,7 +7,6 @@ Aspiring Developer 🚀 | Passionate about building & learning
 ⚡ Love solving problems & creating cool projects<br>
 📈 Constantly improving, one commit at a time
 </p>
-## 📊 GitHub Stats<div align="center">  <img src="https://github-readme-stats.vercel.app/api?username=uditshettyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uditshettyy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/></div><div align="center">  <img src="https://github-readme-streak-stats.herokuapp.com?user=uditshettyy&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></div>---## 📈 Contribution Graph<div align="center">  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uditshettyy&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" /></div>---## 🏆 GitHub Trophies<div align="center">  <img src="https://github-profile-trophy.vercel.app/?username=uditshettyy&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" /></div>---
 
 <img align="right" height="160" src="https://www.gifcen.com/wp-content/uploads/2022/09/zoro-gif.gif" />
 
