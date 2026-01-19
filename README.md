@@ -24,6 +24,9 @@
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32"/>
   
+## 📊 Languages Used
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uditshettyy&layout=compact&theme=radical)
 
 
 <h2 align="left">🔥 GitHub Streaks</h2>
