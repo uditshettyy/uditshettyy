@@ -25,21 +25,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32"/>
   
 ## 📊 Languages Used
-
 ![Languages](https://github-readme-stats-nine-kappa-95.vercel.app/api/top-langs/?username=uditshettyy&layout=compact&theme=radical&hide_border=true)
 
+## 🔥 GitHub Streaks
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=uditshettyy&theme=radical&hide_border=true)
 
-<h2 align="left">🔥 GitHub Streaks</h2>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=uditshettyy&theme=dark&hide_border=true" />
-</p>
-
-
-
-<h2 align="left">📊 GitHub Stats</h2>
-<p align="left">
+## 📈 GitHub Stats
 ![Stats](https://github-readme-stats-nine-kappa-95.vercel.app/api?username=uditshettyy&show_icons=true&theme=radical&hide_border=true&count_private=true)
-</p>
+
 
 
 <h2 align="left">🚀 What I'm Currently Working On</h2>
