@@ -38,7 +38,7 @@
 
 <h2 align="left">📊 GitHub Stats</h2>
 <p align="left">
- ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=uditshettyy&theme=radical&hide_border=true)
+![Stats](https://github-readme-stats-nine-kappa-95.vercel.app/api?username=uditshettyy&show_icons=true&theme=radical&hide_border=true&count_private=true)
 </p>
 
 
