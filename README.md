@@ -38,8 +38,7 @@
 
 <h2 align="left">📊 GitHub Stats</h2>
 <p align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uditshettyy&show_icons=true&theme=dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=uditshettyy&layout=compact&theme=dark&hide_border=true" height="160"/>
+ ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=uditshettyy&theme=radical&hide_border=true)
 </p>
 
 
