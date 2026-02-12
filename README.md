@@ -26,8 +26,7 @@
   
 ## 📊 Languages Used
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uditshettyy&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
-
+![Languages](https://github-readme-stats-nine-kappa-95.vercel.app/api/top-langs/?username=uditshettyy&layout=compact&theme=radical&hide_border=true)
 
 
 <h2 align="left">🔥 GitHub Streaks</h2>
