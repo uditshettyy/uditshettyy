@@ -48,36 +48,6 @@
 
 ---
 
-## 🚀 Projects
-
-<p align="center">
-  <a href="https://github.com/uditshettyy/AI-Government-scheme-navigator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=uditshettyy&repo=AI-Government-scheme-navigator&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/uditshettyy/Quantium-virtual-internship">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=uditshettyy&repo=Quantium-virtual-internship&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
-
-### 🏛️ AI Government Scheme Navigator
-> Rule-based eligibility platform that recommends government welfare schemes based on user profile (age, income, state, occupation)
-
-- **Stack:** Python, FastAPI, PostgreSQL, AWS EC2/S3/RDS/CloudFront, Nginx, Gunicorn, HTML/CSS/JS
-- Built during the **ET GenAI Hackathon 2026**
-- Full production deployment on AWS with scalable architecture
-- [View Repository →](https://github.com/uditshettyy/AI-Government-scheme-navigator)
-
-### 📊 Retail Sales Analytics Dashboard
-> End-to-end data pipeline and interactive dashboard for retail sales analysis
-
-- **Stack:** Python, Pandas, Dash, Plotly, PyTest
-- Cleaned and transformed multi-source retail datasets for downstream analysis
-- Applied hypothesis testing and statistical evaluation across regional datasets
-- Automated pipeline validation with PyTest and CI-style Bash scripts
-- [View Repository →](https://github.com/uditshettyy/Quantium-virtual-internship)
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
