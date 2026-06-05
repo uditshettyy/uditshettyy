@@ -1,70 +1,129 @@
-<h1 align="left">Udit Shetty</h1>
-<p align="left">
-  Aspiring Developer 🚀 | Passionate about building & learning
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Udit+Shetty+%F0%9F%91%8B;Python+%26+FastAPI+Developer;Data+Pipelines+%7C+AWS+%7C+ML;Building+things+that+work+in+production." alt="Typing SVG" />
 </p>
 
-<p align="left" style="font-size:20px;">
-💻 Exploring Web Development & Programming<br>
-⚡ Love solving problems & creating cool projects<br>
-</p>
-
-<img align="right" height="160" src="https://www.gifcen.com/wp-content/uploads/2022/09/zoro-gif.gif" />
-
-<h2 align="left">🛠 Tech Stack</h2>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32"/>
-  
-## 📊 Languages Used
-![Languages](https://github-readme-stats-nine-kappa-95.vercel.app/api/top-langs/?username=uditshettyy&layout=compact&theme=radical&hide_border=true)
-
-## 🔥 GitHub Streaks
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=uditshettyy&theme=radical&hide_border=true)
-
-## 📈 GitHub Stats
-![Stats](https://github-readme-stats-nine-kappa-95.vercel.app/api?username=uditshettyy&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-
-
-<h2 align="left">🚀 What I'm Currently Working On</h2>
-<ul>
-  <li>🧠 Strengthening <b>DSA & Problem Solving</b> (LeetCode)</li>
-  <li>🌐 Building <b>Full Stack Web Applications</b></li>
-  <li>📚 Learning <b>Backend, Databases & DevOps basics</b></li>
-  <li>⚙️ Improving code quality & consistency</li>
-</ul>
-
-<h2 align="left"></h2>
-<ul>
-  <li>✅ Build impactful real-world projects</li>
-  <li>✅ Contribute to open-source</li>
-  <li>✅ Crack an internship</li>
-</ul>
-
-<h2 align="left">💬 Quote I Believe In</h2>
-<p align="left">
-  <i>"Consistency is Key ."</i>
-</p>
-<h2 align="left">🌐 Connect with Me</h2>
-<div align="left">
-  <a href="https://www.instagram.com/uditshettyy?igsh=ZzYyY3ZnMjVvOTl5" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/uditshetty091" target="_blank">
+<p align="center">
+  <a href="https://www.linkedin.com/in/uditshetty091">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:uditshetty091@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</div>
+  <img src="https://komarev.com/ghpvc/?username=uditshettyy&style=for-the-badge&color=6C63FF" alt="Profile Views"/>
+</p>
 
-<br/>
+---
+
+<p align="center">
+  Python Developer focused on backend systems, data pipelines, and cloud deployments.<br/>
+  I build things that actually work in production — not just on localhost.
+</p>
+
+---
+
+## 🧠 What I Do
+
+- Build **backend APIs** with FastAPI and PostgreSQL, deployed on AWS
+- Design **data pipelines** for cleaning, transformation, and feature engineering
+- Work with **cloud infrastructure** — EC2, S3, RDS, CloudFront, Nginx, Gunicorn
+- Explore **machine learning** workflows — scikit-learn, model evaluation, statistical analysis
+- Use **Gen AI tools** daily — Cursor, Claude, GitHub Copilot
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Projects
+
+<p align="center">
+  <a href="https://github.com/uditshettyy/AI-Government-scheme-navigator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=uditshettyy&repo=AI-Government-scheme-navigator&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/uditshettyy/Quantium-virtual-internship">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=uditshettyy&repo=Quantium-virtual-internship&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
+
+### 🏛️ AI Government Scheme Navigator
+> Rule-based eligibility platform that recommends government welfare schemes based on user profile (age, income, state, occupation)
+
+- **Stack:** Python, FastAPI, PostgreSQL, AWS EC2/S3/RDS/CloudFront, Nginx, Gunicorn, HTML/CSS/JS
+- Built during the **ET GenAI Hackathon 2026**
+- Full production deployment on AWS with scalable architecture
+- [View Repository →](https://github.com/uditshettyy/AI-Government-scheme-navigator)
+
+### 📊 Retail Sales Analytics Dashboard
+> End-to-end data pipeline and interactive dashboard for retail sales analysis
+
+- **Stack:** Python, Pandas, Dash, Plotly, PyTest
+- Cleaned and transformed multi-source retail datasets for downstream analysis
+- Applied hypothesis testing and statistical evaluation across regional datasets
+- Automated pipeline validation with PyTest and CI-style Bash scripts
+- [View Repository →](https://github.com/uditshettyy/Quantium-virtual-internship)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=uditshettyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uditshettyy&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uditshettyy&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</p>
+
+---
+
+## 📌 Currently
+
+- 🎓 Final year BE in Information Science @ AJ Institute, Mangalore
+- 🔨 Deepening ML knowledge — working through real datasets and model evaluation
+- 📖 Studying system design and scalable backend architecture
+- 🎯 Open to **internships and junior roles** in backend, data engineering, or ML
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uditshettyy/uditshettyy/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uditshettyy/uditshettyy/output/github-snake.svg"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/uditshettyy/uditshettyy/output/github-snake.svg"/>
+  </picture>
+</p>
+
+> ⚠️ Snake won't show until you set up the GitHub Action. See setup instructions below.
+
+---
+
+## 📬 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/uditshetty091">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:uditshetty091@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
