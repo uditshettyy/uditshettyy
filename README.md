@@ -27,7 +27,7 @@
 - Design **data pipelines** for cleaning, transformation, and feature engineering
 - Work with **cloud infrastructure** — EC2, S3, RDS, CloudFront, Nginx, Gunicorn
 - Explore **machine learning** workflows — scikit-learn, model evaluation, statistical analysis
-- Use **Gen AI tools** daily — Cursor, Claude, GitHub Copilot
+- Use **Gen AI tools** daily —  Claude, GitHub Copilot
 
 ---
 
