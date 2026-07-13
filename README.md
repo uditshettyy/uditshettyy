@@ -36,8 +36,6 @@
 
 - 🤖 **Face Recognition Attendance System** — AI-powered attendance system using InsightFace, OpenCV, FastAPI & PostgreSQL
 - 🏛️ **AI Government Scheme Navigator** — FastAPI + PostgreSQL + AWS platform to recommend government schemes using AI
-- 🧠 **DL-Lab** — Deep Learning experiments and hands-on implementations
-- 📊 **ML-Lab** — Machine Learning algorithms, notebooks, and practical projects
 
 ---
 
